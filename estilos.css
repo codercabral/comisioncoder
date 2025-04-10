@@ -11,3 +11,7 @@ h1{
     text-align: center;
     color: yellow;
 }
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
